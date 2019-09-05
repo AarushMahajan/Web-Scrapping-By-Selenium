@@ -1,0 +1,9 @@
+FIRST DOWNLOAD ***SELENIUM*** pip install selenium
+
+THEN DOWNLOAD WEBDRIVER FOR CHROME
+
+then open IDLE and import ***webdriver***
+
+and follow the STEPS
+
+.............................................................................................
